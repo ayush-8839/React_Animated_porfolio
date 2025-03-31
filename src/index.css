@@ -92,6 +92,10 @@ a {
 
 /* Experience Section */
 
+.ex{
+  width: 900px;
+}
+
 .ex-items{
   display: flex;
   justify-content: center;
