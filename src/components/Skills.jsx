@@ -1,6 +1,7 @@
 import React from "react";
 import skills from "./Data/skills.json";
 
+
 const Skills = () => {
   return (
     <>

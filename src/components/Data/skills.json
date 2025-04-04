@@ -20,11 +20,11 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
+    "title":"Express",
     "imageSrc":"skills/firebase.png"
   },
   {
-    "title": "GraphQL",
+    "title": "Bootstrap",
     "imageSrc": "skills/graphql.png"
   },
   {
@@ -32,7 +32,7 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
+    "title": "Redux",
     "imageSrc": "skills/figma.png"
   }
 ]

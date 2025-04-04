@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(11, 26, 51);
+  background-color: rgb(11, 26, 30);
   color: white;
 }
 
@@ -160,7 +160,7 @@ a {
   border: 2px solid yellow;
 }
 
-.contact-icon .item:hover{
+.contact-icon .items:hover{
   background-color: var(--bg-color);
   box-shadow: var(--box-shadow);
 }
